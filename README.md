@@ -51,8 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
@@ -91,5 +89,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Umar-cs/Umar-cs/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://getwallpapers.com/wallpaper/full/c/b/5/1357368-top-matrix-wallpaper-for-desktop-3022x2012.jpg"  />
+</div>
 
 ###
