@@ -93,9 +93,3 @@
 <img src="https://raw.githubusercontent.com/Umar-cs/Umar-cs/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img height="200" src="https://getwallpapers.com/wallpaper/full/c/b/5/1357368-top-matrix-wallpaper-for-desktop-3022x2012.jpg"  />
-</div>
-
-###
