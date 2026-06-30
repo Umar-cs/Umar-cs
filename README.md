@@ -18,48 +18,31 @@
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 
-💻 Experienced in Python, JavaScript, PHP, Node.js, and React Native
+💻 Experienced in Python, JavaScript, TypeScript, PHP, Node.js, React Native, and C#
 
-📚 Always learning new technologies and solving real-world problems
+📊 Skilled in Deep Learning, Computer Vision, Data Analysis, and Intelligent Systems
 
-🚀 Interested in AI Research, Computer Vision, Deep Learning, and Intelligent Systems
+🚀 Dedicated to building innovative AI solutions and solving real-world problems through technology.
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,php,docker,mongodb,mysql,firebase,tensorflow,opencv,git,figma,androidstudio,anaconda,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,php,docker,mongodb,mysql,firebase,tensorflow,opencv,git,figma,androidstudio,anaconda,vscode,cs&perline=9"/>
 </p>
-
----
-
-# 🌱 Currently Learning
-
-- Deep Learning
-- Computer Vision
-- Large Language Models (LLMs)
-- AI for Healthcare
-- Intelligent Transportation Systems
 
 ---
 
 # 🎯 Interests
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Computer Vision
-- Full Stack Development
-- Research & Publications
-
----
-
-# 📫 Connect with Me
-
-<a href="https://www.linkedin.com/in/muhammad-umar-nadeem-7207a9210">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 📊 Data Science & Analytics
+- 🌐 Full Stack Development
+- 📄 Research & Scientific Publications
+- 🚢 AI for Maritime Safety & Intelligent Routing
 
 ---
 
